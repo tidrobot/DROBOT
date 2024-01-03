@@ -1,0 +1,19 @@
+body{
+	background-color: antiquewhite;
+        background-image: url("12.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+        
+ }
+h1{
+text-align: center;
+font-size: 50px;
+}
+.testClass{
+color: green;
+font-size: 40px;
+}
+#google{
+ font-family: Arial
+}
+p b{
